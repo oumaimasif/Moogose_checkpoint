@@ -2,7 +2,7 @@ import { error } from "console";
 import { createRequire } from "module";
 const require = createRequire(import.meta.url);
 const mongoose = require("mongoose");
-const uri = "mongodb+srv://Omaima134:Omaima134@cluster0.paelt.mongodb.net/dbPerson?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "mongodb+srv://MMMMM:NNNNN@cluster0.paelt.mongodb.net/dbPerson?retryWrites=true&w=majority&appName=Cluster0";
 
 //connection en base de donner
 const connectToDataBase = async () => {
